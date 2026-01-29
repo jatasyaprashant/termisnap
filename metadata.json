@@ -1,0 +1,5 @@
+{
+  "name": "TermiSnap - Terminal to PNG Generator",
+  "description": "A professional-grade web application to convert your terminal commands and code snippets into beautiful, shareable terminal-style PNG images. Customize themes, window styles, and use Gemini to generate realistic terminal output.",
+  "requestFramePermissions": []
+}
